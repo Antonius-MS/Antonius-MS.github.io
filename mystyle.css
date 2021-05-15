@@ -76,9 +76,7 @@ body {
    top: 350px;
 }
 
-a:link {
-  color: blue;
-}
+
 
 img {
     max-width: 100%;
@@ -95,7 +93,6 @@ th, td {
   padding: 15px;
   text-align: left;
 }
-
 #t01 {
   width: 100%;    
   background-color: #f1f1c1;
